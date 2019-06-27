@@ -5,7 +5,7 @@ using System;
 namespace HideHyperV
 {
     /// <summary>
-    /// 
+    /// Hide the Hyper-V Ethernet adapter from Network and Sharing Center and other views.
     /// </summary>
     /// <seealso cref="https://brianreiter.org/2011/08/29/hide-vmware-virtual-network-interfaces-from-windows-firewall-and-network-and-sharing-center/"/>
     class Program

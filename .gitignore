@@ -1,0 +1,4 @@
+/HideHyperV/bin
+/HideHyperV/obj
+*.suo
+/.vs
